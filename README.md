@@ -6,7 +6,7 @@ ___
 const will = {
   code: ['Typescript', 'Javascript', 'HTML', 'CSS'],
   tools: ['React', 'Next', 'Node', 'Styled-components', 'Chakra', 'Tailwind', 'Prisma', 'MongoDB', 'PostgreSQL'],
-  learning: ['Astro', 'Clean Architecture']
+  learning: ['Rust']
 }
 ```
 
